@@ -1,0 +1,4 @@
+a) la commande git pull permet de faire un retour en arriere tandisque la commande git fetch
+b) Pour annuler les modifications locales non validées dans Git , on utilise la commande git commit-m nom de la  branche
+c) Pour supprimer une branche distante dans Git , on utilise la commande git checkout -d nom de la branche
+d)Pour  voir l'historique des modifications, on utilidr la commande git clone 
